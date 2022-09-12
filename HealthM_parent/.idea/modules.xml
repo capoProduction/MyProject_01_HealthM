@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HealthM_backend/HealthM_backend.iml" filepath="$PROJECT_DIR$/HealthM_backend/HealthM_backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/HealthM_common/HealthM_common.iml" filepath="$PROJECT_DIR$/HealthM_common/HealthM_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/HealthM_interface/HealthM_interface.iml" filepath="$PROJECT_DIR$/HealthM_interface/HealthM_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/HealthM_parent.iml" filepath="$PROJECT_DIR$/HealthM_parent.iml" />
